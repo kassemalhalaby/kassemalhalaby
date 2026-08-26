@@ -11,7 +11,7 @@ combined for parameter identification in subsurface systems.
 
 **Work**
 
-- [reactive-transport-time-integration](https://github.com/kassemalhalaby/reactive-transport-time-integration) —
+- [reactive-transport-time-integration](https://github.com/kassemalhalaby/reactive-transport-time-integration),
   finite-volume solver for a nonlinear advection–dispersion equation with
   Freundlich sorption. Implicit Euler with Newton and an analytic
   tridiagonal Jacobian, explicit RK2, variable-order BDF; error and CPU
