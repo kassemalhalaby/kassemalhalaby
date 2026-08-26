@@ -1,4 +1,4 @@
-### Applied mathematics — numerical analysis of PDEs
+### Applied mathematics, numerical analysis of PDEs
 
 M2 Recherche, Lebanese University. Finite volume methods, implicit time
 integration for stiff nonlinear systems, and Newton solvers with
